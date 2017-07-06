@@ -88,16 +88,16 @@
  <div class="slider"> 
    <ul class="slider-main"> 
       <li class="slider-panel"> 
-      <a href="http://www.jb51.net" target="_blank"><img alt="关注脚本之家" title="关注脚本之家" src="img/2.jpg"></a> 
+      <a href="http://www.jb51.net" target="_blank"><img alt="轮播图" title="轮播图" src="img/2.jpg"></a> 
       </li> 
       <li class="slider-panel"> 
-      <a href="http://www.jb51.net" target="_blank"><img alt="关注脚本之家" title="关注脚本之家" src="img/3.jpg"></a> 
+      <a href="http://www.jb51.net" target="_blank"><img alt="轮播图" title="轮播图" src="img/3.jpg"></a> 
       </li> 
       <li class="slider-panel"> 
-      <a href="http://www.jb51.net" target="_blank"><img alt="关注脚本之家" title="关注脚本之家" src="img/10.jpg"></a> 
+      <a href="http://www.jb51.net" target="_blank"><img alt="轮播图" title="轮播图" src="img/10.jpg"></a> 
       </li> 
       <li class="slider-panel"> 
-      <a href="http://www.jb51.net" target="_blank"><img alt="关注脚本之家" title="关注脚本之家" src="img/12.jpg"></a> 
+      <a href="http://www.jb51.net" target="_blank"><img alt="轮播图" title="轮播图" src="img/12.jpg"></a> 
       </li> 
    </ul> 
    <div class="slider-extra"> 
